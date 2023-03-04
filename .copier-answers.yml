@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: c93ef4f
+_src_path: ../catalystsquad/copier-helm-chart-go-app
+chart_name: service-go-pj-api
+db_choice: Postgres
+docker_registry_domain: 758073318405.dkr.ecr.us-west-2.amazonaws.com/service-go-pj-api
+githost: github
+github_settings: true
+organization: networksanitationcommittee
+owner_groupname: engineers
